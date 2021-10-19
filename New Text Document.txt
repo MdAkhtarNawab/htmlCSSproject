@@ -1,0 +1,22 @@
+
+text formatting tag:
+
+italic tag<i></i>
+bold tag<b></b>
+underline tag<u></u>
+
+break tag</br>
+strong tag<strong>.....</strong>
+emphasis<em>....</em>
+
+pre tag <pre> ye tag 1 se zyaada kitte bhi SPACES use karne ke waaste use karte, isme enter bhi maare to accept karleta</pre>
+
+external css: element ku css dene ke waaste direct usske tag ka naam use karne ka. aur curly ya normal brackets ke andar property and value likhdene ka.
+	      class ku css dene ke waaste ".(name of the class)" type karne ka
+	      ex: mere pass ek class ka naam GAME hai, to ussku external css dene ke waaste main aisa karunga=" .GAME"	usske baad curly ya normal brackets ke andar property and value likhdene ka.
+	      AGAR che meku kisi tag mein ki kisi specific content ya data ku css dene ka hai  to pahele usske tag ka naam aur usske id ka naam dena padta
+		main direct id bhi use karke css apply kasaktu.
+
+
+
+umair sir-  hr.tekisky@gmail.com
